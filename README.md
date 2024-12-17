@@ -10,7 +10,7 @@ One of the ideas that I'm most motivated by in exploring large language models i
 
 A  challenge inherent in the idea of organizing personal, contextual data, unlike, say, RAG pipelines for enterprise use, is that the data might be very small and very fragmented. 
 
-As I noted in the idea repository linked above, there are also some idiosyncrasies about personal contextual data that distinguish it from other kinds of information of this nature. One of those is that if we do manage to codify the particulars of our life into some kind of a contextual store, we can expect that some elements of that datastore might remain essentially immutable, such as our city of birth for example, while others will be in a continuous state of flux, as are life circumstances similarly change.
+As I noted in the idea repository linked above, there are also some idiosyncrasies about personal contextual data that distinguish it from other kinds of information of this nature. One of those is that if we do manage to codify the particulars of our life into some kind of a contextual store, we can expect that some elements of that datastore might remain essentially immutable, such as our city of birth for example, while others will be in a continuous state of flux, as our life circumstances similarly change.
 
 Like others exploring the question of how best to organize personal contextual data at the moment, one of my guiding principles is that the pursuit of a perfect system shouldn't be an impediment to setting up a functional one. 
 
